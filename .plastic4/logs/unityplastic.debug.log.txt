@@ -1,2 +1,0 @@
-﻿2021-12-03 11:21:53,646 sarah DEBUG RestApi - No user defined URIs in '/Users/sarah/.plastic4/webapi.conf'. Will use default URIs.
-2021-12-03 11:21:53,671 sarah DEBUG RestApi - No user defined URIs in '/Users/sarah/.plastic4/webapi.conf'. Will use default URIs.
