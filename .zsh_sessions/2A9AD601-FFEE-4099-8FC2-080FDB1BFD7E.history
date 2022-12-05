@@ -1,0 +1,34 @@
+$cush-s path
+`chsh -s /bin/zsh`
+The default interactive shell is now zsh.\
+To update your account to use zsh, please run `chsh -s /bin/zsh`.\
+For more details, please visit https://support.apple.com/kb/HT208050.
+$ chsh -s path
+$ chsh -s zsh
+$ chsh -s /bin/zsh
+$ chsh -s /bin/vsh
+chsh -s /bin/vsh
+python3 -m venv selenium
+C:\sarah>python -m venv selenium
+sarah>python -m venv selenium
+python -m venv selenium
+python3 -m venv selenium 
+cd selenium\scripts
+cd selenium\Scripts
+cd selenium\script
+cd selenium/scripts
+cd selenium/bin
+activate
+>activate
+pip3 install openpy
+print(a, b, c, d)
+/usr/local/bin/python3 "/Users/sarah/Desktop/íƒ¬ƒ¬ìƒ½´ìƒ­¬ ìƒ·°ìƒªµ/file replace/relpace.py"
+/usr/local/bin/python3 "/Users/sarah/Desktop/íƒ¬ƒ¬ìƒ½´ìƒ­¬ ìƒ·°ìƒªµ/file replace/relpace.py"
+a,b,c,d
+python3 relpace.py
+python3 relpace.py
+rython3 relpace.py
+python3 relpace.py
+/usr/local/bin/python3
+sudo apachetl start
+httpd -v
